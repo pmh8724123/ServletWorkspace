@@ -14,7 +14,5 @@
 	<header>
 		<h1>여기는 문서의 Header영역입니다.</h1>
 	</header>
-	
-	
 </body>
 </html>

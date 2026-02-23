@@ -65,19 +65,5 @@
 	 sessionScope에 담긴 값 : ${sessionScope.scope } <br>
 	 application에 담긴 값 : ${applicationScope.scope } <br>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 </body>
 </html>
